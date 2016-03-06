@@ -63,11 +63,12 @@
     </string-array>
     <string name="title_activity_location_selection">LocationSelectionActivity</string>
     <string name="title_activity_category_grid">Select Category</string>
-    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
     <string name="title_activity_building_selection">Select Building</string>
     <string name="title_activity_air_cleaner">Air Cleaner</string>
     <string name="title_activity_humidifiers">HumidifiersActivity</string>
     <string name="title_activity_thermostats_activitty">ThermostatsActivitty</string>
     <string name="title_activity_light_timer">LightTimer</string>
+    <string name="title_activity_arlight_timer">ARLightTimerActivity</string>
 
 </resources>

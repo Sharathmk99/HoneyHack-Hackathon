@@ -64,7 +64,7 @@ public class LocationSelectionActivity extends AppCompatActivity {
                     SharedPreferences.Editor editor = sharedpreferences.edit();
                     editor.putString("location", positionString);
                     editor.commit();
-                    startActivity(new Intent(LocationSelectionActivity.this,CategoryGridActivity.class));
+                    startActivity(new Intent(LocationSelectionActivity.this,DashboardActivity.class));
                     finish();
                 }
             }

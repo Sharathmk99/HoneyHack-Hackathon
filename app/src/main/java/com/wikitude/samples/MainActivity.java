@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
                         progressDialog.dismiss();
                         SharedPreferences sharedpreferences = getSharedPreferences("HoneyHack", Context.MODE_PRIVATE);
                         if(sharedpreferences.getString("location",null) != null){
-                            startActivity(new Intent(MainActivity.this, CategoryGridActivity.class));
+                            startActivity(new Intent(MainActivity.this, DashboardActivity.class));
                         }else{
                             startActivity(new Intent(MainActivity.this, LocationSelectionActivity.class));
                         }

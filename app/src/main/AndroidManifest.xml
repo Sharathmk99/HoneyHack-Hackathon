@@ -124,7 +124,11 @@
         <activity
             android:name="com.wikitude.samples.LightTimer"
             android:label="@string/title_activity_light_timer"
-            android:theme="@style/AppTheme.Dark"></activity>
+            android:theme="@style/AppTheme.Dark" />
+        <activity
+            android:name="com.wikitude.samples.plugins.ARLightTimerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="fullSensor"></activity>
     </application>
 
 </manifest>
