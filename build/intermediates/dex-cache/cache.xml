@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\exploded-aar\wikitude-native-sdk\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="261fe7c9814f28d85cdd0845fa14179ad3163bf4">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\classes-3e6d0a5b3ef8b220ec957e63ce027b45175544ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\classes-fb60b41d3570df096ba7c63f3f258a20635811dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-666076557d2a9aa8138b1db1e6640457bd39772e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-cb8b48c30db66438eae1bef4707cb64fe9ea86c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\classes-d33f028c30ab465c889154c92ffa13b43a1211db.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.3\a3bd5f9dd0a98914faee607d51e22ae172cad4a\MPAndroidChart-v2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a3bd5f9dd0a98914faee607d51e22ae172cad4a">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.1.3-ebb5d959a00221223784f341dab47335b09c72f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\classes-a0e303fa9a024adfd0501b3742eb2520067240c3.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSoftware\Android\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\sharath_mk\Desktop\WikitudeSDK_NativeAPI_Android_1_2_0\Examples\NativeSDKExamples\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f0637c03c2ed5432cc696968cbf6dfdc35d2bc04.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/light_status_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:text="Status"
+            android:textSize="35sp" />
+
+        <Switch
+            android:id="@+id/light_status"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:enabled="false"
+            android:gravity="right" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/light_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Time: 06:50 AM"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/light_mode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Mode: Auto"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/light_schedule"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Schedules:"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/light_schedules"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="\t\tTime: 07:50 AM\n\t\tMode: ON"
+        android:textSize="30sp" />
+
+</LinearLayout>
